@@ -1,1 +1,2 @@
 # CS673_Lab1
+AAABBBCCC
